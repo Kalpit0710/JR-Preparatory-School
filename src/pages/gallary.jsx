@@ -37,6 +37,45 @@ import i17 from '../assets/gallery/Annual/0A6A7017.JPG'
 import i18 from '../assets/gallery/Annual/0A6A7025.JPG'
 import i19 from '../assets/gallery/Annual/0A6A7031.JPG'
 import i20 from '../assets/gallery/Annual/0A6A7039.JPG'
+import i21 from '../assets/gallery/Annual/0A6A7044.JPG'
+import i22 from '../assets/gallery/Annual/0A6A7050.JPG'
+import i23 from '../assets/gallery/Annual/0A6A7052.JPG'
+import i24 from '../assets/gallery/Annual/0A6A7065.JPG'
+import i25 from '../assets/gallery/Annual/0A6A7079.JPG'
+import i26 from '../assets/gallery/Annual/0A6A7093.JPG'
+import i27 from '../assets/gallery/Annual/0A6A7096.JPG'
+import i28 from '../assets/gallery/Annual/0A6A7132.JPG'
+import i29 from '../assets/gallery/Annual/0A6A7136.JPG'
+import i30 from '../assets/gallery/Annual/0A6A7138.JPG'
+import i31 from '../assets/gallery/Annual/0A6A7139.JPG'
+import i32 from '../assets/gallery/Annual/0A6A7141.JPG'
+import i33 from '../assets/gallery/Annual/0A6A7142.JPG'
+import i34 from '../assets/gallery/Annual/0A6A7143.JPG'
+import i35 from '../assets/gallery/Annual/0A6A7144.JPG'
+import i36 from '../assets/gallery/Annual/0A6A7155.JPG'
+import i37 from '../assets/gallery/Annual/0A6A7172.JPG'
+import i38 from '../assets/gallery/Annual/0A6A7187.JPG'
+import i39 from '../assets/gallery/Annual/0A6A7191.JPG'
+import i40 from '../assets/gallery/Annual/0A6A7200.JPG'
+import i41 from '../assets/gallery/Annual/0A6A7215.JPG'
+import i42 from '../assets/gallery/Annual/0A6A7236.JPG'
+import i43 from '../assets/gallery/Annual/0A6A7246.JPG'
+import i44 from '../assets/gallery/Annual/0A6A7250.JPG'
+import i45 from '../assets/gallery/Annual/0A6A7251.JPG'
+import i46 from '../assets/gallery/Annual/0A6A7252.JPG'
+import i47 from '../assets/gallery/Annual/0A6A7254.JPG'
+import i48 from '../assets/gallery/Annual/0A6A7255.JPG'
+import i49 from '../assets/gallery/Annual/0A6A7258.JPG'
+import i50 from '../assets/gallery/Annual/0A6A7260.JPG'
+import i51 from '../assets/gallery/Annual/0A6A7263.JPG'
+import i52 from '../assets/gallery/Annual/0A6A7325.JPG'
+import i53 from '../assets/gallery/Annual/0A6A7326.JPG'
+import i54 from '../assets/gallery/Annual/0A6A7330.JPG'
+import i55 from '../assets/gallery/Annual/0A6A7266.JPG'
+import i56 from '../assets/gallery/Annual/0A6A7279.JPG'
+import i57 from '../assets/gallery/Annual/0A6A7288.JPG'
+import i58 from '../assets/gallery/Annual/0A6A7300.JPG'
+import i59 from '../assets/gallery/Annual/0A6A7321.JPG'
 
 const Gallery = () => {
   const [selectedImage, setSelectedImage] = useState(null);
@@ -163,6 +202,13 @@ const Gallery = () => {
       src: `${image21}`,
       title: 'Achievers of school',
       description: 'Acheviers of school'
+    },
+    {
+      id: 72,
+      category: 'Annual Function',
+      src: `${i59}`,
+      title: 'Staff and Students',
+      description: 'Staff and Students of School'
     },
     {
       id: 18,
@@ -302,6 +348,272 @@ const Gallery = () => {
       category: 'Annual Function',
       src: `${i20}`,
       title: 'Click with Guests',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 34,
+      category: 'Annual Function',
+      src: `${i21}`,
+      title: 'Principal Speech',
+      description: 'Speech by Principal at Annual Function'
+    },
+    {
+      id: 35,
+      category: 'Annual Function',
+      src: `${i22}`,
+      title: 'Anchor',
+      description: 'Anchor at Annual Function'
+    },
+    {
+      id: 36,
+      category: 'Annual Function',
+      src: `${i23}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 37,
+      category: 'Annual Function',
+      src: `${i24}`,
+      title: 'Save Girl Child',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 38,
+      category: 'Annual Function',
+      src: `${i25}`,
+      title: 'Save Girl Child',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 39,
+      category: 'Annual Function',
+      src: `${i26}`,
+      title: 'Save Girl Child',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 40,
+      category: 'Annual Function',
+      src: `${i27}`,
+      title: 'Dance Performance',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 41,
+      category: 'Annual Function',
+      src: `${i28}`,
+      title: 'Speech by Chief Guest',
+      description: 'Speech by Chief Guest at Annual Function'
+    },
+    {
+      id: 42,
+      category: 'Annual Function',
+      src: `${i29}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 43,
+      category: 'Annual Function',
+      src: `${i30}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 44,
+      category: 'Annual Function',
+      src: `${i31}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 45,
+      category: 'Annual Function',
+      src: `${i32}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 46,
+      category: 'Annual Function',
+      src: `${i33}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 47,
+      category: 'Annual Function',
+      src: `${i34}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 48,
+      category: 'Annual Function',
+      src: `${i35}`,
+      title: 'Felicitation Ceremony',
+      description: 'Felicitation of Chief Guest at Annual Function'
+    },
+    {
+      id: 49,
+      category: 'Annual Function',
+      src: `${i36}`,
+      title: 'Dance Performance',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 50,
+      category: 'Annual Function',
+      src: `${i37}`,
+      title: 'Dance Performance',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 51,
+      category: 'Annual Function',
+      src: `${i38}`,
+      title: 'Say No to Plastic',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 52,
+      category: 'Annual Function',
+      src: `${i39}`,
+      title: 'Dance Performance',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 53,
+      category: 'Annual Function',
+      src: `${i40}`,
+      title: 'Dance Performance',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 54,
+      category: 'Annual Function',
+      src: `${i41}`,
+      title: 'Dance Performance',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 55,
+      category: 'Annual Function',
+      src: `${i42}`,
+      title: 'Dance Performance',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 56,
+      category: 'Annual Function',
+      src: `${i43}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 57,
+      category: 'Annual Function',
+      src: `${i44}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 58,
+      category: 'Annual Function',
+      src: `${i45}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 59,
+      category: 'Annual Function',
+      src: `${i46}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 60,
+      category: 'Annual Function',
+      src: `${i47}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 61,
+      category: 'Annual Function',
+      src: `${i48}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 62,
+      category: 'Annual Function',
+      src: `${i49}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 63,
+      category: 'Annual Function',
+      src: `${i50}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 64,
+      category: 'Annual Function',
+      src: `${i51}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 65,
+      category: 'Annual Function',
+      src: `${i52}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 66,
+      category: 'Annual Function',
+      src: `${i53}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 67,
+      category: 'Annual Function',
+      src: `${i54}`,
+      title: 'Award Ceremony',
+      description: 'Award Ceremony at Annual Function'
+    },
+    {
+      id: 68,
+      category: 'Annual Function',
+      src: `${i55}`,
+      title: 'Tribute to ISRO',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 69,
+      category: 'Annual Function',
+      src: `${i56}`,
+      title: 'Tribute to ISRO',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 70,
+      category: 'Annual Function',
+      src: `${i57}`,
+      title: 'Tribute to ISRO',
+      description: 'Dance Performance at Annual Function'
+    },
+    {
+      id: 71,
+      category: 'Annual Function',
+      src: `${i58}`,
+      title: 'Tribute to ISRO',
       description: 'Dance Performance at Annual Function'
     },
   ];
