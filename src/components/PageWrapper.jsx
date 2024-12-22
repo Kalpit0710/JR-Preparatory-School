@@ -14,7 +14,7 @@ const PageWrapper = () => {
       setIsLoading(false);
     }, 2000);
 
-    return () => clearTimeout(timer);
+    return () => clearTimeout(timer); // Cleanup the timer
   }, []);
 
   return (
@@ -24,13 +24,13 @@ const PageWrapper = () => {
           <div className="spinner"></div>
         </div>
       ) : (
-        <>
+        <main>
           <Hero />
           <AboutUsSection />
           <Visionaries />
           <OurStrengths />
           <Footer />
-        </>
+        </main>
       )}
     </div>
   );
