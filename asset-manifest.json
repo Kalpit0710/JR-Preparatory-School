@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/JR-Preparatory-School/static/css/main.4df721ca.css",
-    "main.js": "/JR-Preparatory-School/static/js/main.d6c6069b.js",
+    "main.css": "/JR-Preparatory-School/static/css/main.d3aa7105.css",
+    "main.js": "/JR-Preparatory-School/static/js/main.f65995cb.js",
     "static/media/0A6A7250.JPG": "/JR-Preparatory-School/static/media/0A6A7250.1c5c9273d6934cda9ed6.JPG",
     "static/media/0A6A7138.JPG": "/JR-Preparatory-School/static/media/0A6A7138.14180d98ec40a5bd75a9.JPG",
     "static/media/0A6A7254.JPG": "/JR-Preparatory-School/static/media/0A6A7254.a9bfd2dfc1911f4d663f.JPG",
@@ -80,11 +80,11 @@
     "static/media/19.jpg": "/JR-Preparatory-School/static/media/19.8a3751b1deebdc7bd9ea.jpg",
     "static/media/17.jpg": "/JR-Preparatory-School/static/media/17.b98f492af946654f23c8.jpg",
     "index.html": "/JR-Preparatory-School/index.html",
-    "main.4df721ca.css.map": "/JR-Preparatory-School/static/css/main.4df721ca.css.map",
-    "main.d6c6069b.js.map": "/JR-Preparatory-School/static/js/main.d6c6069b.js.map"
+    "main.d3aa7105.css.map": "/JR-Preparatory-School/static/css/main.d3aa7105.css.map",
+    "main.f65995cb.js.map": "/JR-Preparatory-School/static/js/main.f65995cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.4df721ca.css",
-    "static/js/main.d6c6069b.js"
+    "static/css/main.d3aa7105.css",
+    "static/js/main.f65995cb.js"
   ]
 }
