@@ -26,7 +26,7 @@ function App() {
       <Header />
       <ScrollToHash />
       <Routes>
-        <Route path="/JR-Preporatory-School" element={<PageWrapper />} />
+        <Route path="/" element={<PageWrapper />} />
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/contact" element={<ContactPage />} />
         <Route path="/authentication" element={<AuthPage />} />
